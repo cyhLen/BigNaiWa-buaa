@@ -9,7 +9,7 @@
 
 （GitHub Pages 托管，手机浏览器打开就能玩，也可以「添加到主屏幕」当 App 用。）
 
-![预览](buaa-preview.png)
+![预览](buaa-preview.jpg)
 ![预览](preview.png)
 
 ## 玩法
