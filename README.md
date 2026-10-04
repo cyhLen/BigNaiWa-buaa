@@ -5,10 +5,11 @@
 
 ## 🎮 在线玩
 
-**<https://yhsome.github.io/BigNaiWa/>**
+**<https://cyhlen.github.io/BigNaiWa-buaa>**
 
 （GitHub Pages 托管，手机浏览器打开就能玩，也可以「添加到主屏幕」当 App 用。）
 
+![预览](buaa-preview.png)
 ![预览](preview.png)
 
 ## 玩法
@@ -73,7 +74,7 @@ for (const b of balls) {
 
 ## 运行
 
-线上直接开 <https://yhsome.github.io/BigNaiWa/>；
+线上直接开 <https://cyhlen.github.io/BigNaiWa-buaa/>；
 本地双击 `index.html` 即可（`file://` 协议下也能跑，排行榜同样可用）。
 也可以起个静态服务：
 
